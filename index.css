@@ -1,0 +1,36 @@
+.title{
+    background-image: url(./image/pattern.jpeg);
+    height: 100px;
+    text-align: center;
+    position:relative;
+    padding: 10;
+    font-family: Helvetica ;
+    font-size: xx-large;
+    font-weight: bold;
+    color: khaki;
+
+
+}
+.first h2{
+    background-color: mediumseagreen;
+ 
+}
+h2{
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+a{
+    font-family:helvetica ;
+    font-weight: bold;
+    color: blue;
+
+}
+.tow h2{
+    background-color:red ;
+}
+.three h2 {
+    background-color: skyblue;
+}
